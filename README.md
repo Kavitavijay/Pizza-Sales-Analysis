@@ -61,22 +61,8 @@ To help business stakeholders:
 
 ---
 
-## 📁 Project Structure
-Pizza-Sales-Analysis/
-│
-├── PowerBI/
-│   └── pizza_sales.pbix
-│
-├── SQL/
-│   └── pizza_sales_sql_queries.sql
-│
-├── Python/
-│   └── Pizza_Sales_Analysis_Project.ipynb
-│
-├── Documentation/
-│   └── Business_Requirements_Document.pdf
-│
-└── README.md
+## 📁 Dataset
+pizza_sales.csv 
 
 ---
 
